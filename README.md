@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋🏻
+
+I'm a software engineer from Brazil, working and living in Australia.
+
+# ⚡ Skills/Tech
+
+• Javascript, React, TypeScript, Styled Components, Express, NextJS.
+
+• Extreme Programming, Clean Code, CI/CD, TDD, Interviewing & Accessibility.
+
+• Writing RFCs, increasing bus factor, collaborating cross-teams.
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=oarthurcavalcante&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <!--
 **oarthurcavalcante/oarthurcavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
