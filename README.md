@@ -1,14 +1,22 @@
 ### Hi there 👋🏻
 
-I'm a software engineer from Brazil, working and living in Australia.
+## About Me
 
-# ⚡ Skills/Tech
+Hey everyone! I'm Arthur Cavalcante, a software engineer from Brazil, working and living in Australia. 
 
-• Javascript, React, TypeScript, Styled Components, Express, NextJS.
+I'm a passionate software engineer with expertise in building web applications using JavaScript, TypeScript, React, HTML, CSS, and SCSS. I love turning ideas into reality through clean, efficient, and user-friendly code.
 
-• Extreme Programming, Clean Code, CI/CD, TDD, Interviewing & Accessibility.
+## ⚡ Skills/Tech
 
-• Writing RFCs, increasing bus factor, collaborating cross-teams.
+- Javascript, React, TypeScript, Styled Components, Express, NextJS.
+- Extreme Programming, Clean Code, CI/CD, TDD, Interviewing & Accessibility.
+- Writing RFCs, increasing bus factor, collaborating cross-teams.
+
+## 🤝 Let's Connect!
+I'm always open to collaborations and new opportunities. Feel free to reach out to me if you'd like to:
+- Discuss potential projects.
+- Collaborate on open-source initiatives.
+- Share insights and ideas about web development.
 
 
 
